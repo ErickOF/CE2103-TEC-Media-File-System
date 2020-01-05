@@ -1,0 +1,4 @@
+/home/laptopt/CLionProjects/ui/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/laptopt/CLionProjects/ui/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/laptopt/CLionProjects/ui/cmake-build-debug/CMakeFiles/ui.dir
+/home/laptopt/CLionProjects/ui/cmake-build-debug/CMakeFiles/ui_autogen.dir
